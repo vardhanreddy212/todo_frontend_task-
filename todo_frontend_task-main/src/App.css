@@ -1,0 +1,18 @@
+.main-card{
+  background-color: #f3d940;;
+  height: 100vh;
+  width: 100%;
+
+}
+button{
+  background-color: #926000;
+}
+.heading{
+  font-weight: bold;
+}
+.tasks-card{
+  background-image: url("https://www.quadbtech.com/images/hero.png");
+  background-size: cover;
+  height: 80vh;
+  width: 80vw;
+}
